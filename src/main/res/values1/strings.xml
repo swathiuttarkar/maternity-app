@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Janani</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ईमेल</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">साइन इन करेंऔर रजिस्टर</string>
+    <string name="action_sign_in_short">साइन इन करें</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">यह फ़ील्ड आवश्यक है</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="password">पासवर्ड
+    </string>
+    <string name="login">login</string>
+    <string name="name_of_the_couple">जोड़े का नाम</string>
+    <string name="family_planning">परिवार नियोजन
+    </string>
+    <string name="no_of_children">कितने बच्चों</string>
+    <string name="_1_mr_and_mrs_sharma_n_n_2_mr_and_mrs_sehgal_n_n_3_mr_and_mrs_rathod">1. श्रीमान और श्रीमती शर्मा    2. श्रीमान और श्रीमती सेहगल   3. श्रीमान और श्रीमती राठौड़</string>
+    <string name="_3_n_n4_n_n3">3  4  3</string>
+    <string name="next_counselling_date">अगली परामर्श तिथि:</string>
+    <string name="check">जाँचे</string>
+    <string name="janani_app">जननी एप्लिकेशन
+    </string>
+
+    <string name="vaccination">टीका</string>
+    <string name="post_natal">प्रसव के बाद</string>
+    <string name="low_risk">कम जोखिम वाली महिला</string>
+    <string name="high_risk">अधिक जोखिम वाली महिला</string>
+    <string name="communicate">गर्भवती</string>
+</resources>
